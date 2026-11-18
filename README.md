@@ -29,4 +29,4 @@ Academic project for Fundamentals of Data Science at Sapienza. The project explo
 ## Contact
 
 - **LinkedIn** — [LinkedIn profile URL to be added]
-- **Email** — [Professional email address to be added]
+- **Email** — [andrea.dv0012@gmail.com](mailto:andrea.dv0012@gmail.com)
